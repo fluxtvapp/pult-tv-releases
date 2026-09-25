@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.1/pult-0.1.apk",
+  "sha256": "c932a197863ee748cc1c62709a1302534cb2171b52484082dc5d08dd086a0fc5",
+  "changelog": "Первый выпуск.",
+  "minSupported": 1
+}
