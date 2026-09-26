@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.1/pult-0.1.apk",
-  "sha256": "c932a197863ee748cc1c62709a1302534cb2171b52484082dc5d08dd086a0fc5",
-  "changelog": "Первый выпуск.",
+  "versionCode": 2,
+  "versionName": "0.2",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.2/pult-0.2.apk",
+  "sha256": "5d36028402a7b44e2101d0915ea8d3e88301ff6fd37a5df03331ad66566f7829",
+  "changelog": "Reworked archive playback. Recent channels in the player now show what's on.",
   "minSupported": 1
 }
