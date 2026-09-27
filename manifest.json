@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.2/pult-0.2.apk",
-  "sha256": "5d36028402a7b44e2101d0915ea8d3e88301ff6fd37a5df03331ad66566f7829",
-  "changelog": "Reworked archive playback. Recent channels in the player now show what's on.",
+  "versionCode": 3,
+  "versionName": "0.3",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.3/pult-0.3.apk",
+  "sha256": "f784eb6dcaf4de59ba38edd6031e68daf31d6a20999a0cc4e4ae4c96a026b0db",
+  "changelog": "Live video is no longer written to device storage (fixes cache growing to gigabytes with Ace Stream). TV guide updates write only what changed. Smoother on large playlists.",
   "minSupported": 1
 }
