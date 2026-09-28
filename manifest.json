@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.3/pult-0.3.apk",
-  "sha256": "f784eb6dcaf4de59ba38edd6031e68daf31d6a20999a0cc4e4ae4c96a026b0db",
-  "changelog": "Live video is no longer written to device storage (fixes cache growing to gigabytes with Ace Stream). TV guide updates write only what changed. Smoother on large playlists.",
+  "versionCode": 4,
+  "versionName": "0.4",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.4/pult-0.4.apk",
+  "sha256": "8c2fb5c1b5d580707ab3a3bc9b878148dbf993faeb124ad7267131c5d2b085c4",
+  "changelog": "Hide and reorder playlist groups; the TV guide is kept only for visible ones. Optional always-on clock over live TV. Some channels that kept buffering forever now start.",
   "minSupported": 1
 }
