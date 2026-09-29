@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.4/pult-0.4.apk",
-  "sha256": "8c2fb5c1b5d580707ab3a3bc9b878148dbf993faeb124ad7267131c5d2b085c4",
-  "changelog": "Hide and reorder playlist groups; the TV guide is kept only for visible ones. Optional always-on clock over live TV. Some channels that kept buffering forever now start.",
+  "versionCode": 5,
+  "versionName": "0.5",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.5/pult-0.5.apk",
+  "sha256": "0a6037fb815da1f0381305f508feb7c27bb7febda9e35aa82f3950fd93bf008e",
+  "changelog": "Text size setting in Interface. The live bar shows the stream bitrate, and when playback stalls it tells whether the stream arrives slower than the channel needs. Up arrow now switches to the next channel, like CH+. Fixed TV guides that list channels between programmes.",
   "minSupported": 1
 }
