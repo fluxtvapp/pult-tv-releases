@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.6/pult-0.6.apk",
-  "sha256": "3419caad7b64898f1a9fbb8d8ba8e85d0bb207b1905f90e62fc604d8a1477a0d",
-  "changelog": "Multiview: a second channel in the corner of the screen (long OK → Multiview). Channels with several audio languages show all of them. Optional «On now» tab (Settings → Interface) and programme description next to the guide (Settings → Guide). In a recording, OK pauses.",
+  "versionCode": 7,
+  "versionName": "0.7",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.7/pult-0.7.apk",
+  "sha256": "0170edfc7d62ec45abf0435444d3ec66f2b5b7a1cfb27b582f66460837a67c83",
+  "changelog": "Name your playlist (Settings → Playlist → Edit). Guide time shift for the whole playlist, recordings follow it. Player clock can also sit at the top or bottom centre. Swapping multiview windows no longer pops up the channel info.",
   "minSupported": 1
 }
