@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.8/pult-0.8.apk",
-  "sha256": "15cc9a7ecae166a7eb72778993843141e61e3bf43ef29abf7bf1b4cf3593b4c6",
-  "changelog": "Favourite channels row on the TV home screen (switch: Settings → Interface). The player panel now keeps 10 recent channels. A channel's programme in the player scrolls through all days at once.",
+  "versionCode": 9,
+  "versionName": "0.9",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.9/pult-0.9.apk",
+  "sha256": "2c0e6b8b2eb10ccf345b7fcbeb02a62c0f132dde7374edc611ab5a17029f9c3f",
+  "changelog": "HLS channels without .m3u8 in the address now play. Channels whose playlist doesn't declare the audio (often MP2) now have sound. The audio track you pick is remembered: the language for all channels and the track for each channel. Possible fix for jerky video after switching channels on Amlogic boxes.",
   "minSupported": 1
 }
