@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/0.9/pult-0.9.apk",
-  "sha256": "2c0e6b8b2eb10ccf345b7fcbeb02a62c0f132dde7374edc611ab5a17029f9c3f",
-  "changelog": "HLS channels without .m3u8 in the address now play. Channels whose playlist doesn't declare the audio (often MP2) now have sound. The audio track you pick is remembered: the language for all channels and the track for each channel. Possible fix for jerky video after switching channels on Amlogic boxes.",
+  "versionCode": 100,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.0/pult-1.0.apk",
+  "sha256": "08f216ce8e777fc3c943c70e5de1fa0c9802223c051e840e9ab76c1b0322c56b",
+  "changelog": "Rewind live TV and pause from the progress bar: OK, then Up. Switch to a channel automatically when a show starts.",
   "minSupported": 1
 }
