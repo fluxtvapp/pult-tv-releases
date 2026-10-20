@@ -1,8 +1,8 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.0/pult-1.0.apk",
-  "sha256": "08f216ce8e777fc3c943c70e5de1fa0c9802223c051e840e9ab76c1b0322c56b",
-  "changelog": "Rewind live TV and pause from the progress bar: OK, then Up. Switch to a channel automatically when a show starts.",
+  "versionCode": 101,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.1/pult-1.1.apk",
+  "sha256": "fc42bad4602e25856987a35322191ce051656bc2a72bb84213fb78d93915df44",
+  "changelog": "Several playlists at once, your own channel groups across playlists, and hiding a group's channels in one go.",
   "minSupported": 1
 }
