@@ -1,8 +1,8 @@
 {
-  "versionCode": 101,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.1/pult-1.1.apk",
-  "sha256": "fc42bad4602e25856987a35322191ce051656bc2a72bb84213fb78d93915df44",
-  "changelog": "Several playlists at once, your own channel groups across playlists, and hiding a group's channels in one go.",
+  "versionCode": 102,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.2/pult-1.2.apk",
+  "sha256": "d1a39b458ba12d5f683dbed18edea1a7d863edbe6887f1046146f2549cf1a459",
+  "changelog": "Search in the top menu now finds TV programmes too, playlist address can be typed on your phone via QR code, and the archive works with more providers.",
   "minSupported": 1
 }
