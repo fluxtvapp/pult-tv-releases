@@ -1,8 +1,8 @@
 {
-  "versionCode": 104,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.4/pult-1.4.apk",
-  "sha256": "21a9dfa460623e609e3371b7701e2a309a48ee68a47ab99150c3c2c72b48fa66",
-  "changelog": "Add extra TV guides to a playlist to fill in missing programmes, move a channel to another group, and press Left in the TV guide to browse past shows. 5.1 channels are no longer quieter, and live channels start and recover faster.",
+  "versionCode": 105,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.5/pult-1.5.apk",
+  "sha256": "0316f8545eac2e624246ed9adec4063bc84ccccde83b64e8ab379b6a587467d6",
+  "changelog": "Favourites now take channel numbers 1–100 (playlist channels start at 101), and playlists can be moved over from Flux. TV guides no longer lose programmes on repeated or cut-off files, recordings no longer jump back after a network drop, and the screen no longer sticks at 24 Hz after a film.",
   "minSupported": 1
 }
