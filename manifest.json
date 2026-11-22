@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.7/pult-1.7.apk",
-  "sha256": "58c08de0d1ae1954aab5ba6a84b4e119a840c89bd90ad0f47ad8c9158613f611",
-  "changelog": "New: Simple mode — just live TV and Favourites, no menus (Settings → Simple mode). Also: resume an unfinished recording, a tidier channel menu with Settings inside, hidden channels out of the guide.",
+  "versionCode": 108,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.8/pult-1.8.apk",
+  "sha256": "656486d65a4c5fec7720f35609a5c5d5014bc0f113d5f85e870c6bcf205a5254",
+  "changelog": "Hot-fix: steadier on TV boxes.",
   "minSupported": 1
 }
