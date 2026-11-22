@@ -1,8 +1,8 @@
 {
-  "versionCode": 106,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.6/pult-1.6.apk",
-  "sha256": "d86ef3da89994943a479e6a28735999c55247261e3bcc4b2dadc88d5d060d123",
-  "changelog": "New: send your log to the developer (Settings → About) — the fastest way to get a problem found and fixed. Also: a playback Buffer, Favourites as a list, your own refresh-rate matching, Move in Favourites, and fixes for recordings, empty groups and a black screen at start.",
+  "versionCode": 107,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/fluxtvapp/pult-tv-releases/releases/download/1.7/pult-1.7.apk",
+  "sha256": "58c08de0d1ae1954aab5ba6a84b4e119a840c89bd90ad0f47ad8c9158613f611",
+  "changelog": "New: Simple mode — just live TV and Favourites, no menus (Settings → Simple mode). Also: resume an unfinished recording, a tidier channel menu with Settings inside, hidden channels out of the guide.",
   "minSupported": 1
 }
